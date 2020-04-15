@@ -1,0 +1,8 @@
+kubectl run --generator=deployment/apps.v1 is DEPRECATED and will be removed in a future version. Use kubectl run --generator=run-pod/v1 or kubectl create instead.
+deployment.apps/sklearn-prediction created
+Waiting for deployment "sklearn-prediction" rollout to finish: 0 of 1 updated replicas are available...
+deployment "sklearn-prediction" successfully rolled out
+NAME                                  READY   STATUS    RESTARTS   AGE
+sklearn-prediction-7df87bf746-cmhm4   1/1     Running   0          3s
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
