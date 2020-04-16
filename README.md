@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![smithtal](https://circleci.com/gh/smithtal/operationalizing-a-machine-learning-application.svg?style=svg)](https://circleci.com/gh/smithtal/operationalizing-a-machine-learning-application)
 
 ## Project Overview
 
